@@ -1,0 +1,16 @@
+[
+  {
+    "name": "users",
+    "path": "/users",
+    "component": "/Volumes/Macintosh HD - Data/Learning/Nuxt Learning Udemy/tryNuxtJS/udemy/pages/users.vue",
+    "chunkName": "pages/users",
+    "_name": "_78fc3d94"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Volumes/Macintosh HD - Data/Learning/Nuxt Learning Udemy/tryNuxtJS/udemy/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_7e180700"
+  }
+]
