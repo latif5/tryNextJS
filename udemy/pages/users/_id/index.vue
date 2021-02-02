@@ -6,6 +6,7 @@
 export default {
     validate(data){
         return data.params.id != 'text'
-    }
+    },
+    layout: 'users'
 }
 </script>
