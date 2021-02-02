@@ -1,0 +1,23 @@
+[
+  {
+    "name": "users",
+    "path": "/users",
+    "component": "/Users/secret/Documents/Latihan/tryNuxtJS/udemy/pages/users/index.vue",
+    "chunkName": "pages/users/index",
+    "_name": "_5c7105e9"
+  },
+  {
+    "name": "users-id",
+    "path": "/users/:id",
+    "component": "/Users/secret/Documents/Latihan/tryNuxtJS/udemy/pages/users/_id/index.vue",
+    "chunkName": "pages/users/_id/index",
+    "_name": "_f3d9f758"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/secret/Documents/Latihan/tryNuxtJS/udemy/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_7acfa9b0"
+  }
+]
